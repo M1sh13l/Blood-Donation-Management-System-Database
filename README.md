@@ -55,5 +55,6 @@ It models donors, recipients, blood donations, medical tests, staff members, and
 
 - `sql/` → Database implementation (CREATE TABLE, constraints)
 - `diagrams/` → ERD and relational schema
+- `app/` → main.py
 - `sample_queries/` → Example SQL queries
 - `README.md` → Project documentation
