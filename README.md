@@ -51,6 +51,19 @@ It models donors, recipients, blood donations, medical tests, staff members, and
 
 ---
 
+## Python Integration
+
+This project also includes a Python application that connects to the MariaDB database and performs database operations such as:
+
+- Retrieving donor data
+- Executing queries
+- Displaying results
+- Managing database interaction
+
+The Python application connects to the `bdms` database using MySQL/MariaDB connector.
+
+---
+
 ## Project Structure
 
 - `sql/` → Database implementation (CREATE TABLE, constraints)
